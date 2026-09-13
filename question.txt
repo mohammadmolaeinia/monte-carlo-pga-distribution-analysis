@@ -1,0 +1,15 @@
+Probability Distribution Analysis of Y = PGA² + 2PGA
+
+Problem Statement:
+Using the PGA probability distribution values obtained from the previous project:
+    https://github.com/mohammadmolaeinia/pga-histogram-cdf-analysis
+
+Compute and plot the PDF and CDF of the probability distribution of the transformed variable by using Monte Carlo Analysis:
+    Y = PGA² + 2PGA
+
+Input Parameters (from pga-histogram-cdf-analysis):
+    Number of PGAs   : 12206
+    Mean (Average)   : 34.3392
+    Standard Dev.    : 58.4308
+    Range            : 986.6504
+    Skewness         : 7.0695
